@@ -1,0 +1,26 @@
+body {font-size:12px;font-family:'DejaVu Sans', sans-serif!important;color:#000000!important;font-weight:400;}
+p {margin:0;padding:0}
+
+.page-break {
+	page-break-after: always;
+}
+
+th, td {
+	font-family:'DejaVu Sans', sans-serif!important;
+}
+
+.koko {color:blue;}
+
+.card .card-header {
+	padding:0;
+	border:none;
+}
+.card .card-body {
+	padding:0;
+}
+.card .card-body table {
+	width:94%!important;
+}
+.card p {
+	margin:0!important;
+}
